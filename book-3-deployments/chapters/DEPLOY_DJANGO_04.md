@@ -2,7 +2,7 @@
 
 ## Generate requirements file
 
-Run the following command to generate a dependencies file that Digital Ocean supports.
+Only if you are using Poetry to create and manage your virtual environment, you need to run the following command to generate a dependencies file that Digital Ocean supports. If you used `pipenv` then you can skip this step.
 
 ```bash
 poetry export --format=requirements.txt > requirements.txt
