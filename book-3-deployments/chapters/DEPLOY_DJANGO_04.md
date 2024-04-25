@@ -33,6 +33,7 @@ Then, click **Edit** to the right of the **Run Command** section. Your completed
 Recall that the name of your project is the directory name where `urls.py` and `settings.py` are, not where your models, views, fixtures are. Replace `django_app` in the command below with your project name.
 
 ```sh
+python manage.py makemigrations {name of your api project}
 python manage.py migrate
 gunicorn --worker-tmp-dir /dev/shm django_app.wsgi
 ```
