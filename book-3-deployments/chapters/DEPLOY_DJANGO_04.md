@@ -1,5 +1,15 @@
 # Step 4: Creating Digital Ocean App
 
+## Generate requirements file
+
+Run the following command to generate a dependencies file that Digital Ocean supports.
+
+```bash
+poetry export --format=requirements.txt > requirements.txt
+```
+
+## Generate App
+
 First, if you haven't used Digital Ocean yet, [sign up for $100 credit](https://m.do.co/c/47e5e578d1cd) which is good for 60 days.
 
 > Reminder: Deploying your Django app is $5.00 per month after your initial credit is used, or after 60 days has passed.
