@@ -4,9 +4,9 @@
 |--|--|--|--|--|--|
 | 1 | [Python Lists][24] | [Meeting Bobby Kawlins][1] | [Khan Academy: Intro to SQL][14] | [Debugging Python in Visual Studio Code][7] | [Project Setup][16]|
 | 2 | [Python Dictionaries][25] | [Critter Creation][2] <br/> <sub style="font-size:0.85rem;">\#classes</sub> | [SQL Bolt: Beginner SQL Tutorial][15] | [Get the Code][8] | [Diamonds Database][17] |
-| 3 | [Python Functions][26] |[Condensed Critter Creation][3] <br/> <sub style="font-size:0.85rem;">\#classes</sub> | |[Create the Database][9] | [Get All Orders][18] |
-| 4 | [Python Exceptions][27] |[Packaging Animals for Transport][4] <br/> <sub style="font-size:0.85rem;">\#packages</sub> | |[Exploring the API][10] | [Get Single Order][19] |
-| 5 | |[Piling On Properties][5] <br/> <sub style="font-size:0.85rem;">\#properties</sub> | | [API Sequence Diagram][11] | [Create New Order][20] |
+| 3 | [Python Sets][26] |[Condensed Critter Creation][3] <br/> <sub style="font-size:0.85rem;">\#classes</sub> | |[Create the Database][9] | [Get All Orders][18] |
+| 4 | [Python Tuples][29] |[Packaging Animals for Transport][4] <br/> <sub style="font-size:0.85rem;">\#packages</sub> | |[Exploring the API][10] | [Get Single Order][19] |
+| 5 | [Python Exceptions][27] |[Piling On Properties][5] <br/> <sub style="font-size:0.85rem;">\#properties</sub> | | [API Sequence Diagram][11] | [Create New Order][20] |
 | 6 | |[Food Function Fun][6] <br/> <sub style="font-size:0.85rem;">\#methods</sub> | | [Creating Resources][12] | [Cancel an Order][21] |
 | 7 | | | | [Who Carries the Ship?][13] | [Update a Metal Price][22] |
 | 8 | | | | | [Embedding Metal, Style, and Size][23] |
@@ -59,6 +59,7 @@ Once everyone has had their reflections interview with a coach, we will start on
 [23]:   ./chapters/KD_JOIN.md
 [24]:   ./chapters/PYTHON_LISTS.md
 [25]:   ./chapters/PYTHON_DICTIONARIES.md
-[26]:   ./chapters/PYTHON_FUNCTIONS.md
+[26]:   ./chapters/PYTHON_SETS.md
 [27]:   ./chapters/PYTHON_EXCEPTIONS.md
 [28]:   ./chapters/RARE.md
+[29]:   ./chapters/TUPLES.md
