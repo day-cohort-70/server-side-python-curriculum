@@ -6,7 +6,6 @@ A dictionary in Python is an unordered collection of items where each item is st
 ## When to Use
 Dictionaries are used when you need to associate unique keys with specific values, allowing for fast lookups, updates, and deletions. Common use cases include:
 - Storing and accessing data by unique identifiers.
-- Implementing associative arrays or hash maps.
 - Maintaining records with named fields (like a simple database).
 
 ## Implementation Example
