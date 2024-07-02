@@ -1,6 +1,6 @@
-# Support GET and POST for Rocks
+# Support GET for Rocks
 
-For the **Rock** view, you initially need to support the following request types.
+For the **Rock** view, you will eventually support the following request types.
 
 | Method | URL | Response Data | Status Code |
 |--|--|--|--|
