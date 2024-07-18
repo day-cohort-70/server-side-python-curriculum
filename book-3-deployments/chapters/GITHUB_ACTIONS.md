@@ -37,6 +37,8 @@ Examples include Shipping Ships, Martin's Aquarium, and Brewed Awakenings.
 6. You will notice an automated build task running. Click on it.
 7. When the build is done, click on the URL that is displayed in the task.
 
+![](./images/github-actions-simple-site-running.gif)
+
 
 This workflow will run whenever you push to the main branch. It uses a pre-made action to deploy your files to GitHub Pages.
 Benefits for a bootcamp learner:
