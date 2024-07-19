@@ -46,8 +46,6 @@ Click **Save** to confirm the change
 
 Then click **Back** at the bottom of the page to return to the Resources page.
 
-Here, you can click **Edit Plan**. Choose the **Basic App** with the $5/month option.
-
 Finally, click **Next** to proceed.
 
 [Go to Step 5 >](./DEPLOY_DJANGO_05.md)
