@@ -38,7 +38,13 @@ python manage.py migrate
 gunicorn --worker-tmp-dir /dev/shm django_app.wsgi
 ```
 
-Click **Save** to confirm the change, then click **Back** at the bottom of the page to return to the Resources page.
+Click **Save** to confirm the change
+
+Click **Edit** button in **Resource Size** section, and choose the $5/month option.
+
+Click **Save** to confirm the change
+
+Then click **Back** at the bottom of the page to return to the Resources page.
 
 Here, you can click **Edit Plan**. Choose the **Basic App** with the $5/month option.
 
